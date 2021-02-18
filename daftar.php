@@ -5,7 +5,7 @@ if (isset($_SESSION['username'])) {
 }
 ?>
 
-<title>Form Pendaftaran</title>
+<title>Form Daftar</title>
 <div align='center'>
     <form action="prosesdaftar.php" method="post">
         <table>
